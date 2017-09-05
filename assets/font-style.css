@@ -1,0 +1,74 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?xjodyw');
+  src:  url('fonts/icomoon.eot?xjodyw#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?xjodyw') format('truetype'),
+    url('fonts/icomoon.woff?xjodyw') format('woff'),
+    url('fonts/icomoon.svg?xjodyw#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-dress:before {
+  content: "\e900";
+  color: #ff5400;
+}
+.icon-high-heels:before {
+  content: "\e901";
+  color: #ff5400;
+}
+.icon-off-the-shoulder-dress:before {
+  content: "\e902";
+  color: #ff5400;
+}
+.icon-sweater:before {
+  content: "\e903";
+  color: #ff5400;
+}
+.icon-v-neck-shirt:before {
+  content: "\e904";
+  color: #ff5400;
+}
+.icon-computer:before {
+  content: "\e905";
+  color: #ff5400;
+}
+.icon-gas:before {
+  content: "\e906";
+  color: #ff5400;
+}
+.icon-transport:before {
+  content: "\e907";
+  color: #ff5400;
+}
+.icon-shopping-basket:before {
+  content: "\e908";
+  color: #ff5400;
+}
+.icon-earrings:before {
+  content: "\e909";
+  color: #ff5400;
+}
+.icon-monitor:before {
+  content: "\e90a";
+  color: #ff5400;
+}
+.icon-smartphone:before {
+  content: "\e90b";
+  color: #ff5400;
+}
